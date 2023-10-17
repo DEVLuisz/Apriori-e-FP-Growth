@@ -1,7 +1,5 @@
 # Apriori-e-FP-Growth
 
-Entendi, você deseja um resumo conciso do código para incluir no GitHub. Aqui está um resumo simplificado:
-
 ---
 
 Este código Python realiza mineração de regras de associação em um conjunto de dados em formato Excel. Ele utiliza as bibliotecas Pandas e MLxtend para executar a análise. A mineração de regras de associação identifica padrões e associações em conjuntos de dados, o que pode ser útil em várias aplicações, como análise de mercado e recomendações de produtos.
